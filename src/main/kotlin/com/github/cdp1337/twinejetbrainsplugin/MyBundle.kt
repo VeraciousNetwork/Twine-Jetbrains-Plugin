@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.cdp1337.twinejetbrainsplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
